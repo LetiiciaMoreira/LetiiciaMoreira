@@ -26,7 +26,6 @@ Me chamo Letícia Sousa Moreira, sou natural de Almenara - Minas Gerais, e atual
 ### Vamos nos conectar!
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:moreirasletiicia@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/let%C3%ADcia-moreira-55b4453a1/)
 
 ---
@@ -187,12 +186,12 @@ Me chamo Letícia Sousa Moreira, sou natural de Almenara - Minas Gerais, e atual
 <div align="center">
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=LetiiciaMoreira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=LetiiciaMoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetiiciaMoreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetiiciaMoreira&layout=compact&langs_count=7&theme=tokyonight"
   />
 </div>
 
