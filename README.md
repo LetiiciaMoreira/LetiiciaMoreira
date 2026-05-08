@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img align="center" alt="header-gif" height="250px" src="./src/header-gif.gif">
+<img align="right" alt="coding-gif" height="170px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 </div>
 
 #
