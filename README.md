@@ -13,13 +13,13 @@
   <img align="center" alt="header-gif" height="250px" src="./src/header-gif.gif">
 </div>
 
-###
+#
 
 <p align="center">
 Me chamo Letícia Sousa Moreira, sou natural de Almenara - Minas Gerais, e atualmente sou estudante de Sistemas de Informação na PUC Minas. Estou sempre buscando aprender coisas novas, desenvolver minhas habilidades e crescer cada vez mais na área de tecnologia. Gosto de explorar novas ideias, enfrentar desafios e transformar conhecimento em soluções criativas, buscando evoluir tanto pessoalmente quanto profissionalmente.
 </p>
 
-###
+#
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
@@ -196,7 +196,7 @@ Me chamo Letícia Sousa Moreira, sou natural de Almenara - Minas Gerais, e atual
   />
 </div>
 
-###
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
