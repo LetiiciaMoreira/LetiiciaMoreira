@@ -7,14 +7,16 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img alt="header-gif" height="180px" src="./src/header-gif.gif">
+  <img align="center" alt="header-gif" height="250px" src="./src/header-gif.gif">
 </div>
 
-### Sobre mim
+#
 
 <p align="center">
-Me chamo Letícia Sousa Moreira, sou natural de Almenara - Minas Gerais, e atualmente sou estudante de Sistemas de Informação na PUC Minas. Estou sempre buscando aprender coisas novas, desenvolver minhas habilidades e crescer cada vez mais na área de tecnologia.
+Me chamo Letícia Sousa Moreira, sou natural de Almenara - Minas Gerais, e atualmente sou estudante de Sistemas de Informação na PUC Minas. Estou sempre buscando aprender coisas novas, desenvolver minhas habilidades e crescer cada vez mais na área de tecnologia. Gosto de explorar novas ideias, enfrentar desafios e transformar conhecimento em soluções criativas, buscando evoluir tanto pessoalmente quanto profissionalmente.
 </p>
 
 ---
