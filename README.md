@@ -9,15 +9,6 @@
 
 <br>
 
-<div align="center">
-  <img 
-    align="center" 
-    alt="coding-gif" 
-    height="170px" 
-    src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
-  >
-</div>
-
 #
 
 <p align="center">
