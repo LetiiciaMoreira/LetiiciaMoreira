@@ -7,30 +7,27 @@
   </a>
 </div>
 
-<br>
-
 <div align="center">
-  <img align="center" alt="header-gif" height="250px" src="./src/header-gif.gif">
+  <img alt="header-gif" height="180px" src="./src/header-gif.gif">
 </div>
 
-#
+### Sobre mim
 
 <p align="center">
-Me chamo Letícia Sousa Moreira, sou natural de Almenara - Minas Gerais, e atualmente sou estudante de Sistemas de Informação na PUC Minas. Estou sempre buscando aprender coisas novas, desenvolver minhas habilidades e crescer cada vez mais na área de tecnologia. Gosto de explorar novas ideias, enfrentar desafios e transformar conhecimento em soluções criativas, buscando evoluir tanto pessoalmente quanto profissionalmente.
+Me chamo Letícia Sousa Moreira, sou natural de Almenara - Minas Gerais, e atualmente sou estudante de Sistemas de Informação na PUC Minas. Estou sempre buscando aprender coisas novas, desenvolver minhas habilidades e crescer cada vez mais na área de tecnologia.
 </p>
 
-#
+---
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="170px" src="./src/study.gif">
 
-<h3 align="left">Vamos nos conectar!</h3>
+### Vamos nos conectar!
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:moreirasletiicia@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/let%C3%ADcia-moreira-55b4453a1/)
 
-<br>
-<br>
+---
 
 ### Linguagens e Tecnologias
 
@@ -180,23 +177,24 @@ Me chamo Letícia Sousa Moreira, sou natural de Almenara - Minas Gerais, e atual
 
 <br>
 <br>
-<br>
+
+---
 
 ### Estatísticas
 
 <div align="center">
   <img 
-    height="180em" 
+    height="170em" 
     src="https://github-readme-stats.vercel.app/api?username=LetiiciaMoreira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img 
-    height="180em" 
+    height="170em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetiiciaMoreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
 
-#
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
